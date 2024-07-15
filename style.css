@@ -1,0 +1,20 @@
+
+body{
+    color: #fa0a0a;
+    height: 100px;
+
+}
+.texto{
+    color: blue;
+        height: 100px
+}
+#txt{
+    color: rgb(0, 255, 255);
+    height: 100px;
+}
+
+#txt_3{
+background-color: rgb(0, 255, 13);
+    height: 100px;
+
+}
